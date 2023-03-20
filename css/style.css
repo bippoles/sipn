@@ -692,3 +692,8 @@ ul,ol {
 		color: #00bba7;
 	} 
 }
+@media (min-width:400px){
+  .adapt{
+         width:100%;
+	}
+}
